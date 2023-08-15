@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-intrest-calc/static/css/main.17e35b4a.css",
+    "main.js": "/simple-intrest-calc/static/js/main.455badc1.js",
+    "index.html": "/simple-intrest-calc/index.html",
+    "main.17e35b4a.css.map": "/simple-intrest-calc/static/css/main.17e35b4a.css.map",
+    "main.455badc1.js.map": "/simple-intrest-calc/static/js/main.455badc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17e35b4a.css",
+    "static/js/main.455badc1.js"
+  ]
+}
